@@ -13,6 +13,7 @@ for _, row in control_df.iterrows():
     weather_df = weather_client.fetch_weather(
         row.latitude, row.longitude
     )
+# To Test and trigger the comms and incentive scenario 
     weather_df.loc[:10, "precipitation"] = 4.5
     weather_df.loc[:10, "precip_probability"] = 80
 
@@ -23,7 +24,7 @@ for _, row in control_df.iterrows():
 
     if reco["comms_on"]:
         send_email(
-            sender="nanthakumars2012@gmail.com",
+            sender="your_email@gmail.com",
             password="**** **** **** ****",
             receiver=row.email,
             subject=f"Weather Alert – {row.city}",
