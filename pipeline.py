@@ -24,7 +24,7 @@ for _, row in control_df.iterrows():
     if reco["comms_on"]:
         send_email(
             sender="nanthakumars2012@gmail.com",
-            password="yavz pqwd papp fjdw",
+            password="**** **** **** ****",
             receiver=row.email,
             subject=f"Weather Alert – {row.city}",
             decision_payload=reco
